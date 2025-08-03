@@ -4,7 +4,7 @@
 
 ## 📖 가이드 보기
 
-- **🌐 [웹페이지로 보기](https://kimjs99.github.io/claude-code-guide/claude-code-beginner-guide.html)** *(GitHub Pages 활성화 후)*
+- **🌐 [웹페이지로 보기](https://kimjs99.github.io/claude-code-guide/claude-code-beginner-guide.html)**
 - **📄 [HTML 파일 보기](claude-code-beginner-guide.html)**
 - **📋 [프로젝트 제작 과정](claude-code-guide-project-log.md)**
 
