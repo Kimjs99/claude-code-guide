@@ -2,35 +2,33 @@
 
 > 비전문가도 쉽게 따라할 수 있는 Claude Code 설치 및 활용 가이드
 
-## 📚 가이드 보기
+## 📖 가이드 보기
 
-- **📖 [전체 가이드 읽기](guide.md)**
-- **🌐 [웹페이지 버전](https://yourusername.github.io/claude-code-guide/)**
-- **⚡ [빠른 시작 가이드](docs/installation.md)**
+- **🌐 [웹페이지로 보기](https://kimjs99.github.io/claude-code-guide/claude-code-beginner-guide.html)** *(GitHub Pages 활성화 후)*
+- **📄 [HTML 파일 보기](claude-code-beginner-guide.html)**
+- **📋 [프로젝트 제작 과정](claude-code-guide-project-log.md)**
 
-## 🎯 대상 독자
+## 🎯 특징
 
-- 프로그래밍 초보자
-- Claude Code를 처음 사용하는 사람
-- AI 도구를 활용한 개발에 관심 있는 사람
+- ✅ **완전 한국어**: 한국 사용자를 위한 친화적 설명
+- ✅ **단계별 가이드**: 설치부터 실전 활용까지
+- ✅ **반응형 디자인**: 모바일/데스크톱 모두 지원
+- ✅ **실용적 예제**: 웹페이지 제작, 버그 수정 등
+- ✅ **문제 해결**: 자주 발생하는 이슈와 해결책
 
-## 📋 주요 내용
+## 📊 프로젝트 정보
 
-1. **설치 가이드** - Node.js부터 Claude Code까지
-2. **초기 설정** - API 키 설정 및 환경 구성
-3. **기본 사용법** - 명령어와 기본 조작법
-4. **실전 예시** - 웹페이지, Python 스크립트 등
-5. **문제 해결** - 자주 발생하는 오류와 해결책
-6. **FAQ** - 자주 묻는 질문들
+- **개발 기간**: 2025년 8월 3일 (약 2시간)
+- **파일 크기**: 685줄, 25KB
+- **기술 스택**: HTML5, CSS3, 반응형 디자인
+- **개발 도구**: Claude Code
 
-## 🚀 빠른 시작
+## 🤝 기여하기
 
-```bash
-# 1. Node.js 설치 확인
-node --version
+이 가이드 개선에 참여하고 싶으시다면:
+1. 이슈 등록으로 개선사항 제안
+2. Pull Request로 직접 기여
+3. 별⭐ 누르기로 프로젝트 응원
 
-# 2. Claude Code 설치
-npm install -g @anthropic-ai/claude-code
-
-# 3. 실행
-claude-code
+---
+*Claude Code와 함께 만든 오픈소스 프로젝트입니다*
